@@ -1,16 +1,16 @@
-## Hi there 👋
+# VISTRO
 
-<!--
-**vistro-sandbox/vistro-sandbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vistro is a Virtual Machine without a real CPU running. It can run on Windows / Linux.
+## BYTECODE LANGUAGE
 
-Here are some ideas to get you started:
+This is the machine language that can run tasks without using an official language like Python, C, and others.
+This bytecode language is used on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Shell (User Interface for Vistro)
+* Programs (self-explanatory)
+
+## FAQ
+
+* Is Vistro done? No, nearly done, but we need to fix some bugs and add more features.
+* Does Vistro have a website? Not yet, but coming soon.
+* Is Vistro open source? Yes, but you need to follow the license.
