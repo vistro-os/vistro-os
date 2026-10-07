@@ -1,7 +1,6 @@
 # VISTRO ✨
 
-Vistro is a Operating System lightweight and open-source
-Developed on Ventana
+Vistro is a OS made with Ventana programming language
 ## BYTECODE LANGUAGE 👨‍💻
 
 This is the machine language that can run tasks without using an official language like Python, C, and others.
@@ -15,3 +14,4 @@ This bytecode language is used on:
 * Is Vistro done? No, nearly done, but we need to fix some bugs and add more features.
 * Does Vistro have a website? Not yet, but coming soon.
 * Is Vistro open source? Yes, but you need to follow the license.
+* Is Vistro customizable? Yes, You can modify the fetch message, create graphical interfaces, and write programs using the Ventana programming language.
